@@ -1,6 +1,6 @@
 {
-    "theme": "templates/default.html",
-    "title": "A blog",
-    "footnote": "by You",
+    "theme": "templates/dark.html",
+    "title": "PFS",
+    "footnote": "by Wallace Soares",
     "ignore" : ["CNAME","index.html"]
 }
